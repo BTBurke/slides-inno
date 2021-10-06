@@ -31191,6 +31191,10 @@ video {
   font-family: 'Palanquin', sans-serif;
 }
 
+.font-marker {
+  font-family: 'Permanent Marker', cursive;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
