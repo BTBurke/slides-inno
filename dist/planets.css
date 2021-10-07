@@ -46,7 +46,7 @@
     z-index: 8;
     right: -2000px;
     animation: rocket ;
-    animation-iteration-count: 100;
+    animation-iteration-count: infinite;
 
 }
 
